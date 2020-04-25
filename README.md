@@ -1,5 +1,6 @@
 # AlphaStrike Unity
-3D-Fps Sandbox by yacine H., Bryan C. & Philippe L.
+3D-Fps Sandbox by velynn
+
 
 
 # Lien vers la Demo
